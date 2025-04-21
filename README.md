@@ -8,8 +8,13 @@ Jiya Patel - KU2407U412
 
 ---
 
-**Objective Of The Project**
+## Objective Of The Project
 
-Attendance via Face Detection
+**Attendance via Face Detection**
+
+### Tools and Libraries used
+
+-> Visual Studio Code
+-> 
 
 
