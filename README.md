@@ -17,13 +17,13 @@ This system captures student's face through webcam,recognizes themand compares w
 
 ## Tools and Libraries used
 
--> Visual Studio Code
--> Python 
--> Face Recognition Library - Detects and compares with known faces
--> OpenCV - For face detection and preprocessing 
--> TensorFlow - Model Training 
--> Dlib - Face encoding and landmark detection
--> Face Recognition - Simple face recognition using Dlib
+<br/>-> Visual Studio Code
+<br/>-> Python 
+<br/>-> Face Recognition Library - Detects and compares with known faces
+<br/>-> OpenCV - For face detection and preprocessing 
+<br/>-> TensorFlow - Model Training 
+<br/>-> Dlib - Face encoding and landmark detection
+<br/>-> Face Recognition - Simple face recognition using Dlib
 
 
 
