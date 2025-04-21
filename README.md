@@ -1,6 +1,6 @@
 # Attendance_Via_Face_Recognition
 ---
-##Group Members
+## Group Members
 
 Jiya Patel - KU2407U412
 <br/>Jiya Chaudhari - KU2407U411
