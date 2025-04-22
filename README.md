@@ -12,8 +12,13 @@ Jiya Patel - KU2407U412
 
 **Attendance via Face Detection**
 
+---
+
 ## Project Overview
+
 This system captures student's face through webcam,recognizes themand compares with preloaded images, records the attendance and adds student's name in the attendance sheet.
+
+---
 
 ## Tools and Libraries used
 
@@ -24,6 +29,22 @@ This system captures student's face through webcam,recognizes themand compares w
 <br/>-> TensorFlow - Model Training 
 <br/>-> Dlib - Face encoding and landmark detection
 <br/>-> Face Recognition - Simple face recognition using Dlib
+
+---
+
+## Features
+
+<br/>DNN Face Detection: Accurate detection using OpenCV’s deep learning model.
+<br/>LBPH Recognition: Reliable face recognition with good performance in varied lighting.
+<br/>Multi-Scale & Augmentation: Improves accuracy using rotated, brightened, and enhanced images.
+<br/>Real-Time Webcam: Detects and matches faces live via webcam.
+<br/>Step-by-Step Matching: Recognizes one face at a time with manual controls.
+<br/>Attendance Controls: Keys for next, skip, retrain, mark, and quit (n, y, r, q).
+<br/>CSV Logging: Saves name, time, and confidence in an attendance file.
+<br/>Retraining Support: Easily retrain model with updated data.
+
+---
+
 
 
 
