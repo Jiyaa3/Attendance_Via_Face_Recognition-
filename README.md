@@ -16,7 +16,7 @@ Jiya Patel - KU2407U412
 
 ## Project Overview
 
-This system captures student's face through webcam,recognizes themand compares with preloaded images, records the attendance and adds student's name in the attendance sheet.
+This system captures student's face through webcam,recognizes them and compares with preloaded images, records the attendance and adds student's name in the attendance sheet.
 
 ---
 
