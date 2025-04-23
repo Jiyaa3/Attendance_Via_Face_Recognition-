@@ -26,7 +26,6 @@ This system captures student's face through webcam,recognizes them and compares 
 <br/>-> Python 
 <br/>-> Face Recognition Library - Detects and compares with known faces
 <br/>-> OpenCV - For face detection and preprocessing 
-<br/>-> TensorFlow - Model Training 
 <br/>-> Dlib - Face encoding and landmark detection
 <br/>-> Face Recognition - Simple face recognition using Dlib
 
