@@ -45,12 +45,20 @@ This system captures student's face through webcam,recognizes themand compares w
 
 ---
 
-## Challenges faced:
+## Challenges faced
 
 <br/>Low-Quality Images – Affected face matching accuracy.
 <br/>Webcam Access Issues – Errors if camera was blocked or in use.
 <br/>Control Flow Complexity – Managing per-student logic (next, skip, quit) needed clear structure.
 <br/>Attendance Output – Required saving attendance to file after session.
+
+---
+
+## Conclusion 
+
+<br/>Face recognition technology provides a modern, contactless, and efficient solution for automating attendance.
+<br/>It saves time, improves accuracy, and prevents proxy attendance, making it ideal for educational, corporate, and public settings.
+<br/>Despite a few challenges like lighting and privacy concerns, the system offers significant potential for smart and secure attendance management.
 
 
 
