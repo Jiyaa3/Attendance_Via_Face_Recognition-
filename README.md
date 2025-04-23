@@ -34,16 +34,23 @@ This system captures student's face through webcam,recognizes themand compares w
 
 ## Features
 
-<br/>DNN Face Detection: Accurate detection using OpenCV’s deep learning model.
-<br/>LBPH Recognition: Reliable face recognition with good performance in varied lighting.
-<br/>Multi-Scale & Augmentation: Improves accuracy using rotated, brightened, and enhanced images.
-<br/>Real-Time Webcam: Detects and matches faces live via webcam.
-<br/>Step-by-Step Matching: Recognizes one face at a time with manual controls.
-<br/>Attendance Controls: Keys for next, skip, retrain, mark, and quit (n, y, r, q).
-<br/>CSV Logging: Saves name, time, and confidence in an attendance file.
-<br/>Retraining Support: Easily retrain model with updated data.
+<br/>=> DNN Face Detection: Accurate detection using OpenCV’s deep learning model.
+<br/>=> LBPH Recognition: Reliable face recognition with good performance in varied lighting.
+<br/>=> Multi-Scale & Augmentation: Improves accuracy using rotated, brightened, and enhanced images.
+<br/>=> Real-Time Webcam: Detects and matches faces live via webcam.
+<br/>=> Step-by-Step Matching: Recognizes one face at a time with manual controls.
+<br/>=> Attendance Controls: Keys for next, skip, retrain, mark, and quit (n, y, r, q).
+<br/>=> CSV Logging: Saves name, time, and confidence in an attendance file.
+<br/>=> Retraining Support: Easily retrain model with updated data.
 
 ---
+
+## Challenges faced:
+
+<br/>Low-Quality Images – Affected face matching accuracy.
+<br/>Webcam Access Issues – Errors if camera was blocked or in use.
+<br/>Control Flow Complexity – Managing per-student logic (next, skip, quit) needed clear structure.
+<br/>Attendance Output – Required saving attendance to file after session.
 
 
 
